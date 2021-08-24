@@ -1,0 +1,8 @@
+Delivery
+
+    moveForward();
+    turnLeft();
+    moveForward();
+    pickUp();
+    moveForward();
+    throwItem();

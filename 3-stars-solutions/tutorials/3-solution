@@ -1,0 +1,15 @@
+Pick up the slack
+
+    moveForward();
+    turnLeft();
+    moveForward();
+    pickUp();
+    moveForward();
+    turnLeft();
+    moveForward();
+    moveForward();
+    moveForward();
+    turnLeft();
+    moveForward();
+    moveForward();
+    putDown();
