@@ -1,0 +1,21 @@
+Having func?
+
+    func1(){
+        do 3{
+            moveForward();
+            moveForward();
+            turnLeft();
+            moveForward();
+            turnRight();
+            moveForward();
+            moveForward();
+            pickUp();
+            turnRight();
+        }
+    }
+    func1();
+    turnRight();
+    turnRight();
+    throwItem();
+    func1();
+    throwItem();

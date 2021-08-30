@@ -1,0 +1,16 @@
+The Good Room
+
+    func1(){
+        do 3{
+            moveForward();
+        }
+        turnRight();
+        do 2{
+            do 6{
+                moveForward();
+            }
+            turnRight();
+        }
+    }
+    func1();
+    func1();

@@ -1,0 +1,13 @@
+Parallelization
+
+    do 4{
+        moveForward();
+    }
+    turnLeft();
+    moveForward();
+    turnRight();
+    moveForward();
+    turnRight();
+    moveForward();
+    turnLeft();
+    moveForward();

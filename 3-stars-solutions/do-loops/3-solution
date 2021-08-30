@@ -1,0 +1,12 @@
+Zig-Zag
+
+    do 8{
+        moveForward();
+        pickUp();
+        throwItem();
+        turnRight();
+        moveForward();
+        pickUp();
+        throwItem();
+        turnLeft();
+    }

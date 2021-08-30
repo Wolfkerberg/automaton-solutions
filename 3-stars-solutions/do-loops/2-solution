@@ -1,0 +1,9 @@
+Get to work
+
+    do 4{
+        moveForward();
+        pickUp();
+        moveForward();
+        throwItem();
+        turnRight();
+    }

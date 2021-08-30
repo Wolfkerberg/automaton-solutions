@@ -1,0 +1,9 @@
+jne
+
+   do 4{
+       moveForward();
+   }
+   if(robot.colour != "green"){
+       turnRight();
+   }
+   moveForward();

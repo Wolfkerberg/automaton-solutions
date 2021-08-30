@@ -1,0 +1,10 @@
+Pick up the slack (again)
+
+    do 5{
+        do 3{
+            moveForward();
+            pickUp();
+        }
+        turnLeft();
+    }
+    throwItem();

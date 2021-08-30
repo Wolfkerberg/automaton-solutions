@@ -1,0 +1,12 @@
+What if
+
+    do 4{
+        moveForward();
+    }
+    pickUp();
+    if(package.colour == "green"){
+        turnRight();
+        turnLeft();
+    }
+    turnLeft();
+    throwItem();

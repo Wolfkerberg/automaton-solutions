@@ -1,0 +1,23 @@
+the third one
+
+    func1(){
+        turnLeft();
+        moveForward();
+        moveForward();
+        pickUp();
+    }
+    func1();
+    turnLeft();
+    func1();
+    func1();
+    throwItem();
+    func1();
+    turnLeft();
+    turnLeft();
+    func1();
+    func1();
+    throwItem();
+    pickUp();
+    func1();
+    turnRight();
+    throwItem();

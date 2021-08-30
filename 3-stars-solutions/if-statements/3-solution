@@ -1,0 +1,13 @@
+The Shorting Room
+
+    do 4{
+        moveForward();
+    }
+    pickUp();
+    if(package.colour == "pink"){
+        turnLeft();
+    }
+    if(package.colour == "green"){
+        turnRight();
+    }
+    throwItem();

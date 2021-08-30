@@ -1,0 +1,11 @@
+Getting func-y
+
+    func1(){
+        moveForward();
+        turnLeft();
+        moveForward();
+        turnRight();
+        moveForward();
+    }
+    func1();
+    func1();
