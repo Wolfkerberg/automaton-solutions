@@ -14,7 +14,7 @@ Automaton is an android game focused on teaching the basics of programming and C
 
  - [Tutorials](https://github.com/Wolfkerberg/automaton-solutions/tree/master/3-stars-solutions/tutorials)
  - [Do loops](https://github.com/Wolfkerberg/automaton-solutions/tree/master/3-stars-solutions/do-loops)
- - [Functions](https://github.com/Wolfkerberg/automaton-solutions/tree/master/3-stars-solutions/functions)
+ - [Functions](https://github.com/Wolfkerberg/automaton-solutions/tree/master/3-stars-solutions/fuctions)
 - [If Statements](https://github.com/Wolfkerberg/automaton-solutions/tree/master/3-stars-solutions/if-statements)
   
 ##  Download
